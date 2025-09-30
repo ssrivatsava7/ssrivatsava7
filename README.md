@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I'm Snigdha 👋
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma&ext=contest)
+
+
 
 <!--
 **ssrivatsava7/ssrivatsava7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
